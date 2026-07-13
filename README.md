@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Test Automation**
 
-- 💬 Ask me about **Selenium, java**
+- 💬 Ask me about **Playwright, TypeScript, Selenium, java**
 
 - 📫 How to reach me **mahamudulpeas@gmail.com**
 
